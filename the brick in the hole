@@ -1,82 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T12:48:22.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="bDalqhYJNFMYI6hd67uM" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T12:58:57.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vV4JyiKGUcdu3FZGZzPc" version="13.7.6" type="github">
   <diagram id="P85gdif037umoV-UpdEa" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-2" value="to stick the brick into the hole" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-2" value="to stick the brick into the hole" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-6" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-6" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="120" as="sourcePoint" />
             <mxPoint x="320" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-7" value="fill in size(length, width, height) of the brick" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-7" value="fill in size(length, width, height) of the brick" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="235" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-8" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-8" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319.5" y="250" as="sourcePoint" />
             <mxPoint x="319.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-9" value="write the info of the hole&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-9" value="write the info of the hole&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="200" y="190" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-10" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" target="QkDP1beC5Zc28Ck_vI9p-11">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-10" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" target="QkDP1beC5Zc28Ck_vI9p-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319.5" y="380" as="sourcePoint" />
             <mxPoint x="319.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-11" value="get it into" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-11" value="get it into" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-12" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" target="QkDP1beC5Zc28Ck_vI9p-13">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-12" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" target="QkDP1beC5Zc28Ck_vI9p-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319.5" y="500" as="sourcePoint" />
             <mxPoint x="319.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-13" value="does it match?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="550" width="80" height="80" as="geometry" />
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-13" value="does it match?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="270" y="550" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-14" value="Nope" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-14" value="Nope" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#e51400;strokeColor=#B20000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="590" as="sourcePoint" />
-            <mxPoint x="430" y="590" as="targetPoint" />
+            <mxPoint x="370" y="599.5" as="sourcePoint" />
+            <mxPoint x="440" y="599.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-15" value="Yes" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-15" value="Yes" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#008a00;strokeColor=#005700;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="589.5" as="sourcePoint" />
-            <mxPoint x="280" y="589.5" as="targetPoint" />
+            <mxPoint x="200" y="599.5" as="sourcePoint" />
+            <mxPoint x="270" y="599.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-16" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-16" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#008a00;strokeColor=#005700;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="590" as="sourcePoint" />
-            <mxPoint x="210" y="660" as="targetPoint" />
+            <mxPoint x="199.5" y="600" as="sourcePoint" />
+            <mxPoint x="199.5" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-18" value="Brick went into the hole by the first time!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="150" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-18" value="Brick went into the hole by the first time!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-20" value="you are wrong, please, try again!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-20" value="you are wrong, please, try again!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="440" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-22" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-22" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#e51400;strokeColor=#B20000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489.5" y="560" as="sourcePoint" />
-            <mxPoint x="490" y="360" as="targetPoint" />
+            <mxPoint x="499.5" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkDP1beC5Zc28Ck_vI9p-24" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1">
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-24" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#e51400;strokeColor=#B20000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="360" as="sourcePoint" />
-            <mxPoint x="405" y="358" as="targetPoint" />
+            <mxPoint x="500" y="359" as="sourcePoint" />
+            <mxPoint x="400" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
