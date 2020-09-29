@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T11:01:33.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.6" etag="ypFHO7l0BZO5e7vpKFht" type="github"><diagram id="P85gdif037umoV-UpdEa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-29T12:48:22.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="bDalqhYJNFMYI6hd67uM" version="13.7.6" type="github">
+  <diagram id="P85gdif037umoV-UpdEa" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-2" value="to stick the brick into the hole" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-6" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="120" as="sourcePoint" />
+            <mxPoint x="320" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-7" value="fill in size(length, width, height) of the brick" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="235" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-8" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="250" as="sourcePoint" />
+            <mxPoint x="319.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-9" value="write the info of the hole&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-10" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" target="QkDP1beC5Zc28Ck_vI9p-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="380" as="sourcePoint" />
+            <mxPoint x="319.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-11" value="get it into" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-12" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" target="QkDP1beC5Zc28Ck_vI9p-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="500" as="sourcePoint" />
+            <mxPoint x="319.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-13" value="does it match?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-14" value="Nope" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="590" as="sourcePoint" />
+            <mxPoint x="430" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-15" value="Yes" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="589.5" as="sourcePoint" />
+            <mxPoint x="280" y="589.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-16" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="590" as="sourcePoint" />
+            <mxPoint x="210" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-18" value="Brick went into the hole by the first time!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-20" value="you are wrong, please, try again!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-22" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="489.5" y="560" as="sourcePoint" />
+            <mxPoint x="490" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkDP1beC5Zc28Ck_vI9p-24" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="360" as="sourcePoint" />
+            <mxPoint x="405" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
