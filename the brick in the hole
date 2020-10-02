@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T13:32:37.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Q_uq21hbRhjCFeCOXPnh" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T13:34:34.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Yx6_kl7ZfVGFLmME2Yfo" version="13.7.7" type="github">
   <diagram id="P85gdif037umoV-UpdEa" name="Page-1">
     <mxGraphModel dx="1718" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="4rp8vvxDlpWpn4oZFLAf-1" value="Your information is incorrect(OUTPUT &quot;NO&quot;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="460" y="725" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4rp8vvxDlpWpn4oZFLAf-3" value="does it matches?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4rp8vvxDlpWpn4oZFLAf-3" value="does it matches?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="255" y="700" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4rp8vvxDlpWpn4oZFLAf-5" value="The brick went into the hole with the first time(OUTPUT &quot;YES&quot;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
